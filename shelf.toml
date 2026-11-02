@@ -1,5 +1,5 @@
 name = "hungarian-mojo"
-version = "0.1.0"
+version = "0.2.0"
 description = "Jonker-Volgenant rectangular linear assignment in pure Mojo"
 tags = ["assignment", "hungarian", "tracking", "optimization", "robotics"]
 tins = []
